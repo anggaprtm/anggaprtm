@@ -12,7 +12,7 @@
 - 🎓 I'm a Data Science graduate, but my passion has led me into the world of **Fullstack Web Development**
 - 🔧 I mainly work with **Laravel**, building dynamic backend systems and API integrations
 - 🧠 Still keeping my **data background** alive through automation and smart logic in my apps
-- 💡 Love building internal tools and systems for real-world use (admin dashboards, logbook apps, agenda TV display, etc.)
+- 💡 Love building internal tools and systems for real-world use (admin dashboards, logbook apps, booking system, etc.)
 - 🌱 Currently learning: **Inertia.js**, **Docker**, and **clean architecture in Laravel**
 
 ---
