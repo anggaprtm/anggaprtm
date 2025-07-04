@@ -63,7 +63,7 @@
 ### 📫 Connect with Me
 
 <p>
-  <a href="[https://linkedin.com/in/anggaprtm](https://www.linkedin.com/in/angga-prtm/)" target="_blank">
+  <a href="https://www.linkedin.com/in/angga-prtm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:angga.pratama579@gmail.com">
